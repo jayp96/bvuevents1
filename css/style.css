@@ -1,0 +1,29 @@
+
+/* Plugin css */
+
+#images .item img{
+    
+    
+    height: 500px;
+    
+}
+#comments .item{
+  background: #16a085;
+  padding: 30px 30px;
+  margin: 10px;
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+  height:300px;
+}
+
+
+/* Custom css */
+.contain{
+  height:650px;
+}
+.second{
+	
+}
