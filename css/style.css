@@ -7,19 +7,19 @@
     height: 500px;
     
 }
-#comments .item{
-  background: #16a085;
-  padding: 30px 30px;
-  margin: 10px;
-  color: #FFF;
+
+
+#comments .owl-item div{
+  padding:5px;
+}
+#comments .owl-item img{
+  display: block;
+  width: 100%;
+  height: auto;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  text-align: center;
-  height:300px;
 }
-
-
 /* Custom css */
 .contain{
   height:650px;

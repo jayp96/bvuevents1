@@ -48,189 +48,222 @@
 			<div class="text-center" style="color:#34495e;font-size:3.5em;font-weight:999;padding-top:80px;">
 			Get Authentic Reviews From The Audience!!
 			</div>
-			<div style="height:auto;padding:80px;">
-				<div id="comments" class="owl-carousel owl-theme">
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
+			<div id="comments" class="owl-carousel">
+  				<div>
+  					<div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>PhotoShop Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>BVPCSI</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Nikhil Arora</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
 				  	<h2>Hey , that Photoshop Event was Awesome, I would love to attend it again.</h2>
-				  	</div>
+			  	</div>
+
 				  	<br>
 				  	<br>
-				  	<h4>Nikhil Arora</h4>
-				  	<h4>CSE - EVE , 2nd Year</h4>
+		  	</div>
 
 				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
+			  	</div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>Illustrator Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>BVPCSI</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Saumya Tiwari</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
+				  	<h2>Hey , that Illustrator Event was Useful, I would love to learn it.</h2>
+			  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
+				  	<br>
+				  	<br>
+		  	</div>
+
+				  	</div></div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>MATLAB Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>Nikhil</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Dalip Thkar</h4>
+
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
+				  	<h2>Hey , that one was too good.</h2>
+			  	</div>
+
+				  	<br>
+				  	<br>
+		  	</div>
+
+				  	</div></div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>GIthub</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>Nikhil Foundation</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Nikhil Arora</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
+				  	<h2>Hey , that one was too good</h2>
+			  	</div>
+
+				  	<br>
+				  	<br>
+		  	</div>
+
+				  	</div></div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>Motivational Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>Niks</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Nikhil Arora</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
+				  	<h2>Hey , that one motivated me to do something in my life.</h2>
+			  	</div>
+
+				  	<br>
+				  	<br>
+		  	</div>
+
+				  	</div></div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>PhotoShop Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>BVPCSI</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Nikhil Arora</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
 				  	<h2>Hey , that Photoshop Event was Awesome, I would love to attend it again.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>Nikhil Arora</h4>
-				  	<h4>CSE - EVE , 2nd Year</h4>
+			  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow:hidden;">
-				  	<h2>Hey , that P</h2>
-				  	</div>
-				  	
 				  	<br>
 				  	<br>
-				  	<h4>Nikhil Arora</h4>
-				  	<h4>CSE - EVE , 2nd Year</h4>
+		  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
+				  	</div></div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>PhotoShop Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>BVPCSI</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Nikhil Arora</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
 				  	<h2>Hey , that Photoshop Event was Awesome, I would love to attend it again.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>Nikhil Arora</h4>
-				  	<h4>CSE - EVE , 2nd Year</h4>
+			  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
+				  	<br>
+				  	<br>
+		  	</div>
+
+				  	</div></div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>PhotoShop Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>BVPCSI</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Nikhil Arora</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
 				  	<h2>Hey , that Photoshop Event was Awesome, I would love to attend it again.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>Nikhil Arora</h4>
-				  	<h4>CSE - EVE , 2nd Year</h4>
+			  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
 				  	<br>
 				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>CSE - EVE , 2nd Year</h4>
+		  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
+				  	</div></div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>PhotoShop Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>BVPCSI</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Nikhil Arora</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
+				  	<h2>Hey , that Photoshop Event was Awesome, I would love to attend it again.</h2>
+			  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
 				  	<br>
 				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
+		  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
+				  	</div></div>
+  <div><div class="col-sm-12" style="">
+					  <div class="col-sm-6" style="padding: 0px 0px;padding-right:2px;;">
+						  <div class="col-sm-12" style="background-color:#2ecc71;text-align:center;padding-top:10px;padding-bottom:10px;">
+							  <h3>PhotoShop Event</h3>
+							  <br>
+							  <h4>ORGANISED BY:</h4>
+							  <h4>BVPCSI</h4>
+						  </div>
+					  </div>
+  			<div class="col-sm-6" style=";padding: 0px 0px;padding-left:2px;">
+			  	<div class="col-sm-12" style="background-color:#4EC8CD;text-align:center;padding-top:10px;padding-bottom:10px;">
+					<h4>Nikhil Arora</h4>
+				  	<h4>CSE - EVE , 2nd Year</h4>				  	
+				  	<h2>Hey , that Photoshop Event was Awesome, I would love to attend it again.</h2>
+			  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
 				  	<br>
 				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
+		  	</div>
 
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
-
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
-
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
-
-				  	</div>
-				  </div>
-				  <div class="item">
-				  	<div class="col-sm-12">
-				  	<div style="height:150px;overflow: hidden;">
-				  	<h2>That event did stand to my expectations.</h2>
-				  	</div>
-				  	<br>
-				  	<br>
-				  	<h4>XYZ</h4>
-				  	<h4>Branch , Year</h4>
-
-				  	</div>
-				  </div>
+				  	</div></div>
+</div>
+			
 				</div>
 				 
 				
@@ -261,10 +294,10 @@
 		<br>
 		<span style="font-size:0.8em;">Well, It's absolutely Simple!!</span>
 		</div>
-		<div class="col-sm-6 text-center" style="background-color: #9b59b6;color:#FEFEFA;height:510px;">
+		<div class="col-sm-6 text-center" style="background-color: #9b59b6;color:#FEFEFA;height:auto;">
 		<div style="padding-top:30px;">
 		
-		<div style="height:100px;">
+		<div style="height:auto;">
 		<span style="font-size:2.5em;font-weight:600;">Want to Register Your EVENT?</span>
 		</div> 
 		<br>
@@ -282,9 +315,9 @@
 		</div>
 		</div>
 		</div>
-		<div class="col-sm-6 text-center" style="background-color: #e67e22;color:#F8F8FF;padding-bottom:20px;height:510px;">
+		<div class="col-sm-6 text-center" style="background-color: #e67e22;color:#F8F8FF;padding-bottom:20px;height:auto;">
 			<div style="padding-top:30px;">
-				<div style="height:100px;"> 
+				<div style="height:auto;"> 
 					<span style="font-size:2.5em;font-weight:600;">Want to give reviews about the event that you attended?</span>
 				</div>
 				<br>

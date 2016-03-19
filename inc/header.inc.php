@@ -23,7 +23,7 @@
 	 	 
 		 <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
 		 <link rel="stylesheet" type="text/css" href="css/owl.theme.css">
-		 <link rel="stylesheet" type="text/css" href="css/owl.transtitions.css">
+		 <link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
 		 <link rel="stylesheet" type="text/css" href="css/style.css">
 		 <script src="js/main.js" type="text/javascript"></script> 
 
