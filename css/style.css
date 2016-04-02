@@ -1,5 +1,5 @@
 
-/* Plugin css */
+/* Plugin css----Index page */
 
 #images .item img{
     
@@ -20,10 +20,101 @@
   -moz-border-radius: 3px;
   border-radius: 3px;
 }
+
+/* Plugin css----Display events page*/
+
+#upcoming-events .owl-item div{
+  padding:5px;
+}
+#upcoming-events .owl-item img{
+  display: block;
+  width: 100%;
+  height: auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+#past-events .owl-item div{
+  padding:5px;
+}
+#past-events .owl-item img{
+  display: block;
+  width: 100%;
+  height: auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+
+
+
+
+
 /* Custom css */
+*{
+font-family: 'Noto Sans', sans-serif;
+}
 .contain{
   height:650px;
 }
 .second{
 	
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  
+  margin: 0; 
+}
+input[type=number] {
+    -moz-appearance:textfield;
+}
+
+/* display.php styling*/
+.postertitle{
+  font-weight:800;
+  font-size:2em;
+  
+}
+.dthead{
+  font-weight:800;
+  font-size:1.8em;
+  color:hotpink;
+}
+.dtcontent{
+  font-weight:600;
+  font-size:1.5em;
+  color: grey;
+}
+.linkhead{
+  font-weight:800;
+  font-size:1.8em;
+  color:hotpink;
+}
+.linkcontent{
+  font-weight:600;
+  
+  color: grey;
+}
+.infohead{
+  font-weight:800;
+  font-size:1.8em;
+  color:hotpink;
+}
+
+
+/* info.php styling */
+.infotitle{
+  font-weight:800;
+  font-size:1.8em;
+  color:hotpink;
+  margin:30px 0px 0px 0px;
+}
+.infocontent{
+  font-family: 'Roboto', sans-serif;
+  font-weight:400;
+  font-size:1.4em;
+  color:gray;
 }

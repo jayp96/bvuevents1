@@ -4,7 +4,7 @@
 <div class="container" style="padding-top:30px;">
 <div class="col-sm-12" class="" style="text-align:center;">
 
-<img src="images/events.jpg" class="img-responsive img-thumbnail img-banner">
+<img src="img/events.jpg" class="img-responsive img-thumbnail img-banner">
 </div>
 <div class="col-sm-12 text-center" style="padding-top:20px;">
 	
@@ -29,10 +29,10 @@
 			<div class="contain text-center" style="padding:40px;padding-top:60px;margin-bottom:40px; ">
 				<div id="images" class="owl-carousel owl-theme">
 	 
-				  <div class="item"><img src="images/eventpic1.jpg" class="img-responsive" style="display:inline;"alt="Event 1"></div>
-				  <div class="item"><img src="images/eventpic2.jpg" class="img-responsive" style="display:inline;"alt="Event 2"></div>
-				  <div class="item"><img src="images/eventpic3.jpg" class="img-responsive" style="display:inline;"alt="Event 3"></div>
-				 	<div class="item"><img src="images/eventpic4.jpg" class="img-responsive" style="display:inline;"alt="Event 4"></div>
+				  <div class="item"><img src="img/eventpic1.jpg" class="img-responsive" style="display:inline;"alt="Event 1"></div>
+				  <div class="item"><img src="img/eventpic2.jpg" class="img-responsive" style="display:inline;"alt="Event 2"></div>
+				  <div class="item"><img src="img/eventpic3.jpg" class="img-responsive" style="display:inline;"alt="Event 3"></div>
+				 	<div class="item"><img src="img/eventpic4.jpg" class="img-responsive" style="display:inline;"alt="Event 4"></div>
 				</div>
 
 			</div>
@@ -339,5 +339,34 @@
 	</div>
 </div>
 </div>
+
+<!----------------------------------------        Fifth part       ---------------------------------------->
+<div class="container-fluid">
+		<div class="container-fluid" style="padding-left:0px;padding-right:0px;padding-bottom:50px;">
+	<div class="fifth" style="">
+	<div class="col-sm-12" style="background-color:#ffffff;">
+		<div class="text-center" style="color:#000000;font-size:3.5em;font-weight:900;padding-top:80px;padding-bottom: 50px;">
+		Subscribe to get event updates!
+		<br>
+		</div>
+	</div>
+	<div class="col-sm-12">
+		<form role="form" action="subscribe.php" method="post">
+			<div class="form-group">
+				<label for="email">Email:</label>
+				<input type="email" class="form-control" id="email" name="email" required/>
+			</div>
+			<input type="submit" name="submit" value="Submit" class="btn btn-default">
+		</form>
+	</div>
+
+	</div>
+
+
+	</div>	
+
+</div>
+
+<script src="js/customowlindex.js" type="text/javascript"></script>
 <script src="js/owl.carousel.min.js"></script>
 <?php include('./inc/footer.inc.php');?>

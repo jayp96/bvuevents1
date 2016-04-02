@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^([a-zA-Z0-9!@#$%^&*_-]+)$ events/updateprofile.php?u=$1
+RewriteRule ^([a-zA-Z0-9!@#$%^&*_-]+)/$ events/updateprofile.php?u=$1
+
+
+
+RewriteRule events/admin/$ events/updateprofile.php?u=$1
+RewriteRule events/admin$ events/updateprofile.php?u=$1
+
+RewriteRule ^info/(.*)$ events/info.php?u=$1 [R]
+
+RewriteRule ^/don/admin/(.*)$ events/admin/index.php [R]
+RewriteRule ^/don/admin$ events/admin/index.php [R]
+
+
