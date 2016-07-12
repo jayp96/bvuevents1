@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
  /* Owl Carousel JS */
   //Images
@@ -8,8 +7,8 @@ $(document).ready(function() {
       stopOnHover: true,
       slideSpeed : 2000,
       paginationSpeed : 1800,
-      singleItem:true
-      
+      singleItem:true,
+      navigation : false
       // "singleItem:true" is a shortcut for:
       // items : 1, 
       // itemsDesktop : false,
@@ -29,6 +28,7 @@ $(document).ready(function() {
     goToFirstSpeed : 2000,
     singleItem : true,
     autoHeight : true,
+    navigation : false,
     transitionStyle:"fade"
   });
   

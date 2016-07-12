@@ -1,8 +1,0 @@
-RewriteEngine On
-RewriteBase /
-
-RewriteRule ^econfirm/(.*)$ events/admin/econfirm.php?u=$1 [R]
-RewriteRule ^edelete/(.*)$ events/admin/edelete.php?u=$1 [R]
-
-RewriteRule ^rconfirm/(.*)$ events/admin/rconfirm.php?u=$1 [R]
-RewriteRule ^rdelete/(.*)$ events/admin/rdelete.php?u=$1 [R]

@@ -1,0 +1,9 @@
+[08-Apr-2016 17:14:02 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'niks'@'localhost' (using password: YES) in /home/bvulimdk/public_html/events/admin006/inc/connect.inc.php on line 3
+[09-Apr-2016 05:13:47 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'niks'@'localhost' (using password: YES) in /home/bvulimdk/public_html/events/admin006/inc/connect.inc.php on line 3
+[09-Apr-2016 08:39:08 Etc/GMT] PHP Notice:  Undefined variable: i in /home/bvulimdk/public_html/events/admin006/confirmreviews.php on line 37
+[09-Apr-2016 14:55:02 Etc/GMT] PHP Notice:  Undefined variable: i in /home/bvulimdk/public_html/events/admin006/confirmreviews.php on line 37
+[09-Apr-2016 17:58:33 Etc/GMT] PHP Notice:  Undefined variable: i in /home/bvulimdk/public_html/events/admin006/confirmevents.php on line 44
+[09-Apr-2016 17:59:23 Etc/GMT] PHP Notice:  Undefined variable: i in /home/bvulimdk/public_html/events/admin006/confirmevents.php on line 44
+[14-Apr-2016 16:21:50 Etc/GMT] PHP Notice:  Undefined variable: i in /home/bvulimdk/public_html/events/admin006/confirmevents.php on line 44
+[14-Apr-2016 16:21:56 Etc/GMT] PHP Notice:  Undefined variable: i in /home/bvulimdk/public_html/events/admin006/confirmreviews.php on line 36
+[22-Apr-2016 11:41:49 Etc/GMT] PHP Notice:  Undefined variable: i in /home/bvulimdk/public_html/events/admin006/confirmevents.php on line 44

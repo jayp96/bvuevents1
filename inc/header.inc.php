@@ -24,8 +24,13 @@ else{
 
 	 <meta charset="utf-8" />
 	 <meta name="viewport" content="width=device-width, initial-scale=1" />
-	 <title>BVU Events</title>
+	 
+	 
+	 <!-- Favicon image -->
+	 <link rel="icon" href="img/favicon.png" type="image/x-icon" />
+	 
 	 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js">
 	 </script>
@@ -34,9 +39,31 @@ else{
 	 <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	 <link href='https://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
 	 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+	 	 
 	 <style>
+	 	ul.nav.navbar-nav.navbar-left li a{
+	 		color:#d1d6d6;
+	 	}
+	 	ul.nav.navbar-nav.navbar-left li a:hover{
+	 		color:#f2d535;
+	 	}
+	 	ul.nav.navbar-nav.navbar-right li a{
+	 		color:#d1d6d6;
+	 	}
+	 	ul.nav.navbar-nav.navbar-right li a:hover{
+	 		color:#f2d535;
+	 	}
 	 	
-	 </style>
+	 	
+	 	
+	 	
+	 	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+	 		background-color: #494ca8;
+	 	}
+	 	
+	 	
+	 		 </style>
 	 	
 	 	 <!-- SELECTIZE files-->
 	 	 <script src="js/standalone/selectize.min.js"></script>
@@ -56,53 +83,4 @@ else{
 
 		 <!-- jQuery Bootstrap Star Rating plugin's CSS -->
 		 <link href="css/star-rating.css" media="all" rel="stylesheet" type="text/css" />
-</head>
-<body>
 
-
-	<nav class="navbar navbar-default">
-		<div class="container-fluid">
-			<div class="navbar-header">
-				<!-- Change here when changing the website root folder--><a href="../events/" class="navbar-brand">BVU Events</a>
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-			</div>
-	
-      		
-    		
-    		<div class="collapse navbar-collapse" id="myNavbar">
-			<?php 
-			if(!$p_id){
-
-
-			echo '
-			<ul class="nav navbar-nav navbar-left">
-			<!-- Change here before submitting to the server--><li><a href="display.php"><span class="glyphicon glyphicon-user"></span> Events</a></li>
-			</ul>
-			<ul class="nav navbar-nav navbar-right">
-     		 <!-- Change here before submitting to the server--><li><a href="../events/addevent.php"><span class="glyphicon glyphicon-user"></span> Add Event</a></li>
-      		 <!-- Change here before submitting to the server--><li><a href="../events/update.php"><span class="glyphicon glyphicon-log-in"></span> Update</a></li>
-      		 <!-- Change here before submitting to the server--><li><a href="../events/postreview.php"><span class="glyphicon glyphicon-log-in"></span> Review</a></li>
-
-      		 
-    		 </ul>';
-    		}else{
-    			echo '
-    			<ul class="nav navbar-nav navbar-left">
-			<!-- Change here before submitting to the server--><li><a href="display.php"><span class="glyphicon glyphicon-user"></span> Events</a></li>
-			</ul>
-    			<ul class="nav navbar-nav navbar-right"> <!-- Change here before submitting to the server--><li><a href="'.$p_id.'"><span class="glyphicon glyphicon-log-in"></span> UpdateProfile</a></li>
-    			<!--urce:localhost/events/fsdfdsfinternshipfairdasd Change here before submitting to the server--><li><a href="../events/leave.php"><span class="glyphicon glyphicon-log-in"></span> Leave</a></li>
-      		 
-    		 </ul>';
-    		}
-    		?>
-		</div>
-		
-
-		</div>
-		</nav>
-	
