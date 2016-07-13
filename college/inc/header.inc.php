@@ -28,6 +28,10 @@ else{
 	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js">
 	 </script>
+	 <link href="https://fonts.googleapis.com/css?family=Galada" rel="stylesheet">
+	 <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
+	 <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+	 
 	 <link href='https://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
 	 <style>
 	 	
